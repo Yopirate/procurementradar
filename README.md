@@ -12,7 +12,7 @@ Application de veille achats et intelligence marché pour AWB.
 
 ## Configuration clé API
 
-À la première ouverture, entrez votre clé API Claude (`sk-ant-...`) dans la bannière qui apparaît.
+À la première ouverture, configurez votre clé API Mistral dans la bannière qui apparaît (elle est pré-configurée par défaut).
 La clé est stockée localement dans votre navigateur.
 
 ## Fonctionnalités
@@ -22,4 +22,4 @@ La clé est stockée localement dans votre navigateur.
 - Actualité entreprises Maroc (juillet 2026)
 - Top 100 CA S1 2026
 - Analyse IA avec upload de documents
-- Mises à jour automatiques via Claude API
+- Mises à jour automatiques via Mistral API
